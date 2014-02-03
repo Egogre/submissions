@@ -1,18 +1,19 @@
 def project
   {
-    :group1 => {  :project_name    => '',
-                  :members         => [''],
-                  :repo_url        => '',
-                  :tracker_url     => '',
+    :group1 => {  :project_name    => 'project-x',
+                  :members         => ['Brian, Bryanna, George, and Nikhil'],
+                  :repo_url        => 'https://github.com/Egogre/project-x',
+                  :tracker_url     => 'https://www.pivotaltracker.com/s/projects/1002332',
                   :staging_url     => '',
                   :production_url  => '',
-                  :vps_owner_email => '',
+                  :vps_owner_email => 'nikhil.a.taneja@gmail.com and georgehudson78@gmail.com',
                   :client_satisfaction   => {},
                   :technical_evaluation  => {
                     :apis => 0,
                     :workers => 0,
                     :tdd => 0,
                     :processes => 0,
+                    :pestering_effectiveness => 4,
                     :comments => ""
                   },
                   :learning_and_progress => {}
